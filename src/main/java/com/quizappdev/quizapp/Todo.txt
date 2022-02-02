@@ -1,0 +1,3 @@
+add delete functionality
+showing points at showAns panel
+why quiz is not accepting multiple user quizpoint updates
